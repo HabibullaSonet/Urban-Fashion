@@ -1,6 +1,6 @@
 # Urban-Fashion
 <b>Project type:</b> Front-End.<br>
-<b>About:</b> Urban Fashion is a clothing line website website.<br>
+<b>About:</b> Urban Fashion is a clothing line website.<br>
 <b>Language:</b> I made it using HTML and CSS.<br>
 <b>Preview:⬇️</b><br>
 
